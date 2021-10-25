@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>江小白是猪啊a</title>
+    <link>https://xbsza.com/</link>
+    
+    <atom:link href="https://xbsza.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>自先沉稳 而后爱人</description>
+    <pubDate>Mon, 25 Oct 2021 07:43:20 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>01_DNS服务</title>
+      <link>https://xbsza.com/2021/10/24/Linux-DNS%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/</link>
+      <guid>https://xbsza.com/2021/10/24/Linux-DNS%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/</guid>
+      <pubDate>Sun, 24 Oct 2021 13:06:34 GMT</pubDate>
+      
+      <description>&lt;h2 id=&quot;作者-江小白-时间-2021-10-24-21-06-34-阅读次数&quot;&gt;&lt;a href=&quot;#作者-江小白-时间-2021-10-24-21-06-34-阅读次数&quot; class=&quot;headerlink&quot; title=&quot;作者: 江小白  时间: 2021-10-24 21:06:34  阅读次数:&quot;&gt;&lt;/a&gt;作者: 江小白  时间: 2021-10-24 21:06:34  阅读次数:&lt;/h2&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="作者-江小白-时间-2021-10-24-21-06-34-阅读次数"><a href="#作者-江小白-时间-2021-10-24-21-06-34-阅读次数" class="headerlink" title="作者: 江小白  时间: 2021-10-24 21:06:34  阅读次数:"></a>作者: 江小白  时间: 2021-10-24 21:06:34  阅读次数:</h2><span id="more"></span><h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><h2 id="DNS阐述"><a href="#DNS阐述" class="headerlink" title="DNS阐述"></a>DNS阐述</h2><p>域名系统(Domain Name System,DNS)是Internet上解决网上机器命名的一种系统。就像拜访朋友要先知道别人家怎么走一样，Internet上当一台主机要访问另外一台主机时，必须首先获知其地址，TCP/IP中的IP地址是由四段以“.”分开的数字组成(此处以IPv4的地址为例，IPv6的地址同理)，记起来总是不如名字那么方便，所以，就采用了域名系统来管理名字和IP的对应关系。</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://xbsza.com/2021/10/24/Linux-DNS%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
