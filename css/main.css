@@ -1197,7 +1197,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #30d92a;
+  background: #8b74ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2765,14 +2765,14 @@ code {
 }
 .highlight,
 pre {
-  margin: 5px 0;
+  margin: 4px 0;
   padding: 5px;
   border-radius: 3px;
 }
 .highlight,
 code,
 pre {
-  border: 1px solid #fff5ee;
+  border: 0.5px solid #fff5ee;
 }
 .content-wrap {
   opacity: 0.9;
