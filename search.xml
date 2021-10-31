@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>02_DHCP服务</title>
+      <link href="/2021/10/31/02-DHCP%E6%9C%8D%E5%8A%A1/"/>
+      <url>/2021/10/31/02-DHCP%E6%9C%8D%E5%8A%A1/</url>
+      
+        <content type="html"><![CDATA[<p>&emsp;&emsp;<strong>DHCP（Dynamic Host Configuration Protocol，动态主机配置协议）</strong>通常被应用在大型的局域网络环境中，主要作用是集中的管理、分配IP地址，使网络环境中的主机动态的获得IP地址、Gateway地址、DNS服务器地址等信息，并能够提升地址的使用率。</p><span id="more"></span><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 应用服务 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 应用服务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>01_DNS服务</title>
       <link href="/2021/10/27/Linux-DNS%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/"/>
       <url>/2021/10/27/Linux-DNS%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/</url>
