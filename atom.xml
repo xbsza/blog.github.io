@@ -6,7 +6,7 @@
   <link href="https://xbsza.com/atom.xml" rel="self"/>
   
   <link href="https://xbsza.com/"/>
-  <updated>2021-11-01T10:38:07.219Z</updated>
+  <updated>2021-11-01T10:41:38.417Z</updated>
   <id>https://xbsza.com/</id>
   
   <author>
@@ -21,12 +21,12 @@
     <link href="https://xbsza.com/2021/11/01/03-vsftp%E6%9C%8D%E5%8A%A1/"/>
     <id>https://xbsza.com/2021/11/01/03-vsftp%E6%9C%8D%E5%8A%A1/</id>
     <published>2021-11-01T10:32:46.000Z</published>
-    <updated>2021-11-01T10:38:07.219Z</updated>
+    <updated>2021-11-01T10:41:38.417Z</updated>
     
-    <content type="html"><![CDATA[<p>&emsp;&emsp; <strong>FTP(文件传输协议)全称是：Very Secure FTP Server</strong>。   Vsftpd是linux类操作系统上运行的ftp服务器软件。<br>&emsp;&emsp;vsftp提供三种登陆方式：1.匿名登录  2.本地用户登录  3.虚拟用户登录<br>&emsp;&emsp;vsftpd的特点：1.较高的安全性需求    2.带宽的限制    3.创建支持虚拟用户    4.支持IPV6    5.中等偏上的性能    6.可分配虚拟IP    7.高速</p><span id="more"></span><hr><h1 id="环境安装"><a href="#环境安装" class="headerlink" title="环境安装"></a>环境安装</h1>]]></content>
+    <content type="html"><![CDATA[<p>&emsp;&emsp; <strong>FTP(文件传输协议)全称是：Very Secure FTP Server</strong>。Vsftpd是linux类操作系统上运行的ftp服务器软件。<br>&emsp;&emsp;vsftp提供三种登陆方式：<br>1、匿名登录<br>2、本地用户登录<br>3、虚拟用户登录<br>&emsp;&emsp;vsftpd的特点：<br>1、较高的安全性需求<br>2、带宽的限制<br>3、创建支持虚拟用户<br>4、支持IPV6<br>5、中等偏上的性能<br>6、可分配虚拟IP<br>7、高速</p><span id="more"></span><hr><h1 id="环境安装"><a href="#环境安装" class="headerlink" title="环境安装"></a>环境安装</h1>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp; &lt;strong&gt;FTP(文件传输协议)全称是：Very Secure FTP Server&lt;/strong&gt;。   Vsftpd是linux类操作系统上运行的ftp服务器软件。&lt;br&gt;&amp;emsp;&amp;emsp;vsftp提供三种登陆方式：1.匿名登录  2.本地用户登录  3.虚拟用户登录&lt;br&gt;&amp;emsp;&amp;emsp;vsftpd的特点：1.较高的安全性需求    2.带宽的限制    3.创建支持虚拟用户    4.支持IPV6    5.中等偏上的性能    6.可分配虚拟IP    7.高速&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp; &lt;strong&gt;FTP(文件传输协议)全称是：Very Secure FTP Server&lt;/strong&gt;。Vsftpd是linux类操作系统上运行的ftp服务器软件。&lt;br&gt;&amp;emsp;&amp;emsp;vsftp提供三种登陆方式：&lt;br&gt;1、匿名登录&lt;br&gt;2、本地用户登录&lt;br&gt;3、虚拟用户登录&lt;br&gt;&amp;emsp;&amp;emsp;vsftpd的特点：&lt;br&gt;1、较高的安全性需求&lt;br&gt;2、带宽的限制&lt;br&gt;3、创建支持虚拟用户&lt;br&gt;4、支持IPV6&lt;br&gt;5、中等偏上的性能&lt;br&gt;6、可分配虚拟IP&lt;br&gt;7、高速&lt;/p&gt;</summary>
     
     
     
