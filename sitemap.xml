@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xbsza.com/2021/11/02/04-NFS%E6%9C%8D%E5%8A%A1/</loc>
+    
+    <lastmod>2021-11-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xbsza.com/2021/11/01/03-vsftp%E6%9C%8D%E5%8A%A1/</loc>
     
     <lastmod>2021-11-01</lastmod>
@@ -46,7 +53,7 @@
 
   <url>
     <loc>https://xbsza.com/</loc>
-    <lastmod>2021-11-01</lastmod>
+    <lastmod>2021-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,7 +61,7 @@
   
   <url>
     <loc>https://xbsza.com/tags/%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1/</loc>
-    <lastmod>2021-11-01</lastmod>
+    <lastmod>2021-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -63,7 +70,7 @@
   
   <url>
     <loc>https://xbsza.com/categories/%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1/</loc>
-    <lastmod>2021-11-01</lastmod>
+    <lastmod>2021-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
