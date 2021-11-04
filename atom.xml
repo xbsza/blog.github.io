@@ -6,7 +6,7 @@
   <link href="https://xbsza.com/atom.xml" rel="self"/>
   
   <link href="https://xbsza.com/"/>
-  <updated>2021-11-04T06:28:29.413Z</updated>
+  <updated>2021-11-04T04:48:00.223Z</updated>
   <id>https://xbsza.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>07_MySQL服务</title>
-    <link href="https://xbsza.com/2021/11/04/07-MySQL%E6%9C%8D%E5%8A%A1/"/>
-    <id>https://xbsza.com/2021/11/04/07-MySQL%E6%9C%8D%E5%8A%A1/</id>
-    <published>2021-11-04T05:58:07.000Z</published>
-    <updated>2021-11-04T06:28:29.413Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/2021/11/04/07-MySQL%E6%9C%8D%E5%8A%A1/Blog/source_posts\07_MySQL服务\pasted-1.png" alt="upload successful"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/11/04/07-MySQL%E6%9C%8D%E5%8A%A1/Blog/source_posts\07_MySQL服务\pasted-1.png&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>06_samba服务</title>
